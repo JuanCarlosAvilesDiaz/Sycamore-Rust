@@ -1,0 +1,36 @@
+1.-Instalar Rust:
+curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
+
+2.-Instalar Wasm para WebAssamply
+rustup target add wasm32-unknown-unknown
+
+3.-Instalar la herramienta de compilación recomendada para Sycamore
+cargo install --locked trunk
+
+4.- Descargar el repositorio de código
+
+5.- Una vez instalado, con la linea de comandos entrar a la carpeta con la siguiente ruta:
+cd /sycamore/ejemplosSy/sycamore-app
+
+6.- Ejecutar el siguiente comando:
+trunk serve
+
+
+
+Tarda unos cuantos segundos o minutos y luego si todo se realizó correctamente aparece lo siguiente en la linea de comandos:
+Finished dev [unoptimized + debuginfo] target(s) in 1m 27s
+2024-04-14T03:49:24.132747Z  INFO applying new distribution
+2024-04-14T03:49:24.141686Z  INFO ✅ success
+2024-04-14T03:49:24.147195Z  INFO 📡 serving static assets at -> /
+2024-04-14T03:49:24.147784Z  INFO 📡 server listening at:
+2024-04-14T03:49:24.147918Z  INFO     🏠 http://127.0.0.1:8080/
+2024-04-14T03:49:24.147991Z  INFO     🏠 http://[::1]:8080/
+2024-04-14T03:51:23.250278Z  INFO 📦 starting build
+
+
+Entrar al servidor web local con el puerto que se indica (8080) y ahí se podrá observar los ejemplos.
+
+El primero que se muestra es el de contador con el Hola mundo, para ver los otros ejemplos es necesario abrir el archivo que está en la siguiente ruta:
+cd /sycamore/ejemplosSy/sycamore-app/src/main.rs
+
+Luego comentar la linea 24 y descomentar la 25, así se mostrara el ejemplo del cuadrado que gira, para ver los otros ejemplos es necesario descomentar de la linea 26 a la 29, intentando descomentar de una por una para no saturar la interfaz con todos los ejemplos y mantener el orden lo más posible.
