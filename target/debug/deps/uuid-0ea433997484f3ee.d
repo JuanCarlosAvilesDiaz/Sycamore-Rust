@@ -1,0 +1,15 @@
+/home/jc/Documentos/sycamore/target/debug/deps/libuuid-0ea433997484f3ee.rmeta: /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/lib.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/builder.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/error.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/parser.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/fmt.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/timestamp.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/v4.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/rng.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/external.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/external/serde_support.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/macros.rs
+
+/home/jc/Documentos/sycamore/target/debug/deps/uuid-0ea433997484f3ee.d: /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/lib.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/builder.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/error.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/parser.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/fmt.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/timestamp.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/v4.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/rng.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/external.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/external/serde_support.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/macros.rs
+
+/home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/lib.rs:
+/home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/builder.rs:
+/home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/error.rs:
+/home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/parser.rs:
+/home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/fmt.rs:
+/home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/timestamp.rs:
+/home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/v4.rs:
+/home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/rng.rs:
+/home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/external.rs:
+/home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/external/serde_support.rs:
+/home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/macros.rs:

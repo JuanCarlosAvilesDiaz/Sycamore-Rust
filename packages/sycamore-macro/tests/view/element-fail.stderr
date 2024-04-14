@@ -1,0 +1,67 @@
+error: unexpected end of input, expected either `(` or `{` after element tag
+ --> tests/view/element-fail.rs:5:26
+  |
+5 |         let _: View<G> = view! { button };
+  |                          ^^^^^^^^^^^^^^^^
+  |
+  = note: this error originates in the macro `view` (in Nightly builds, run with -Z macro-backtrace for more info)
+
+error: expected `=`
+ --> tests/view/element-fail.rs:6:49
+  |
+6 |         let _: View<G> = view! { button(disabled) };
+  |                                                 ^
+
+error: expected `=`
+ --> tests/view/element-fail.rs:7:49
+  |
+7 |         let _: View<G> = view! { button(on:click) };
+  |                                                 ^
+
+error: expected `=`
+ --> tests/view/element-fail.rs:8:54
+  |
+8 |         let _: View<G> = view! { button(prop:disabled) };
+  |                                                      ^
+
+error: unknown directive `unknown`
+ --> tests/view/element-fail.rs:9:41
+  |
+9 |         let _: View<G> = view! { button(unknown:directive="123") };
+  |                                         ^^^^^^^
+
+error: expected `=`
+  --> tests/view/element-fail.rs:12:42
+   |
+12 |         let _: View<G> = view! { button(a.b.c="123") };
+   |                                          ^
+
+error: property `notbind` is not supported with `bind:`
+  --> tests/view/element-fail.rs:13:46
+   |
+13 |         let _: View<G> = view! { button(bind:notbind=todo!()) };
+   |                                              ^^^^^^^
+
+error: expected a valid node
+  --> tests/view/element-fail.rs:14:34
+   |
+14 |         let _: View<G> = view! { * };
+   |                                  ^
+
+error: children and `dangerously_set_inner_html` cannot both be set
+  --> tests/view/element-fail.rs:17:13
+   |
+17 |             p(dangerously_set_inner_html="<span>Test</span>") {
+   |             ^
+
+error[E0412]: cannot find type `unknownelement` in module `sycamore::web::html`
+  --> tests/view/element-fail.rs:10:34
+   |
+10 |         let _: View<G> = view! { unknownelement {} };
+   |                                  ^^^^^^^^^^^^^^ not found in `sycamore::web::html`
+
+error[E0425]: cannot find value `unknown_attributes` in this scope
+  --> tests/view/element-fail.rs:11:40
+   |
+11 |         let _: View<G> = view! { div(..unknown_attributes) {} };
+   |                                        ^^^^^^^^^^^^^^^^^^ not found in this scope

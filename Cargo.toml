@@ -1,0 +1,30 @@
+[workspace]
+resolver = "2"
+members = [
+	# Packages
+	"packages/sycamore",
+	"packages/sycamore-core",
+	"packages/sycamore-futures",
+	"packages/sycamore-macro",
+	"packages/sycamore-reactive",
+	"packages/sycamore-router",
+	"packages/sycamore-router-macro",
+	"packages/sycamore-view-parser",
+	#"packages/sycamore-web",
+
+	"ejemplosSy/sycamore-app",
+
+	# Website
+	"docs",
+	#"website",
+
+	# Tools
+	"packages/tools/bench",
+	"packages/tools/bench-diff",
+]
+
+[workspace.package]
+version = "0.9.0-beta.2"
+
+[profile.bench]
+debug = true

@@ -1,0 +1,10 @@
+/home/jc/Documentos/sycamore/target/debug/deps/libwasm_bindgen_test-f4e50f2e0481f716.rmeta: /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/lib.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/mod.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/browser.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/detect.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/node.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/worker.rs
+
+/home/jc/Documentos/sycamore/target/debug/deps/wasm_bindgen_test-f4e50f2e0481f716.d: /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/lib.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/mod.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/browser.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/detect.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/node.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/worker.rs
+
+/home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/lib.rs:
+/home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/mod.rs:
+/home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/browser.rs:
+/home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/detect.rs:
+/home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/node.rs:
+/home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/worker.rs:

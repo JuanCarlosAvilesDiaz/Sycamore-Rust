@@ -1,0 +1,12 @@
+/home/jc/Documentos/sycamore/target/debug/deps/libanes-6b01612a43f22587.rmeta: /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/lib.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/macros.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences/attribute.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences/buffer.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences/color.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences/cursor.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences/terminal.rs
+
+/home/jc/Documentos/sycamore/target/debug/deps/anes-6b01612a43f22587.d: /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/lib.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/macros.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences/attribute.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences/buffer.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences/color.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences/cursor.rs /home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences/terminal.rs
+
+/home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/lib.rs:
+/home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/macros.rs:
+/home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences.rs:
+/home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences/attribute.rs:
+/home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences/buffer.rs:
+/home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences/color.rs:
+/home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences/cursor.rs:
+/home/jc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences/terminal.rs:

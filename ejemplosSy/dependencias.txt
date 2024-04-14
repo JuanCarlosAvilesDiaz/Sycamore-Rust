@@ -1,0 +1,3 @@
+[dependencies]
+gloo-timers = { version = "0.2.4", features = ["futures"] }
+sycamore = { path = "../../packages/sycamore", features = ["suspense"] }
